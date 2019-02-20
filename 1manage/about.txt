@@ -1,0 +1,7 @@
+/******************************************************************************\
+Project: template project name
+
+Initiator: Bostjan Stupica
+
+Purpose: Short project description.
+\******************************************************************************/
